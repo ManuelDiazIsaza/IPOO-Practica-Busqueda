@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Busqueda.cpp
+Busqueda.h
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Busqueda.h
+
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Busqueda.h
+iostream
+-
+
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Ordenar.cpp
+Ordenar.h
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Ordenar.h
+
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Ordenar.h
+iostream
+-
+
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/main.cpp
+stdlib.h
+-
+iostream
+-
+Ordenar.h
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Ordenar.h
+Busqueda.h
+G:/Google Drive/Univalle/Semestre 2/IPOO/Ejemplo Clase 1/Busqueda.h
+
