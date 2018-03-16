@@ -50,7 +50,6 @@ int main()
   
   cout << ((buscar.busquedaSecuencial(vectorOriginal, 7, tamano) == 1 ) ? "Encontrado" : "No está") << endl;
   cout << ((buscar.busquedaBinaria(vectorOrdenado, 12, tamano) == 1 ) ? "Encontrado binario" : "No esta binario");
-  cout << "Probando GutHub 2";
 
   return 0;
 }

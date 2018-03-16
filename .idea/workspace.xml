@@ -49,8 +49,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="436">
+              <caret line="51" column="114" lean-forward="false" selection-start-line="51" selection-start-column="114" selection-end-line="51" selection-end-column="114" />
               <folding />
             </state>
           </provider>
@@ -161,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521164850146</updated>
-      <workItem from="1521164851732" duration="2800000" />
+      <workItem from="1521164851732" duration="3067000" />
     </task>
     <task id="LOCAL-00001" summary="Primera">
       <created>1521167405660</created>
@@ -170,11 +170,25 @@
       <option name="project" value="LOCAL" />
       <updated>1521167405660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primera prueba">
+      <created>1521167667031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521167667031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primera prueba">
+      <created>1521167852521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521167852521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="3067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -242,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state relative-caret-position="436">
+          <caret line="51" column="114" lean-forward="false" selection-start-line="51" selection-start-column="114" selection-end-line="51" selection-end-column="114" />
           <folding />
         </state>
       </provider>
